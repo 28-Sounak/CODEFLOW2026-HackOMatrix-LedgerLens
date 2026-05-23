@@ -1,7 +1,3 @@
-from sentence_transformers import SentenceTransformer
-
-model = SentenceTransformer("all-MiniLM-L6-v2")
-
-
-def get_model():
-    return model
+# placeholder for future ML models
+def load_models():
+    return {"status": "models not loaded (MVP mode)"}
