@@ -12,7 +12,11 @@
   "dependencies": {
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
+<<<<<<< HEAD
     "recharts": "^3.8.1"
+=======
+    "recharts": "^2.12.7"
+>>>>>>> d43bd4741c5f562cd3d99515d8030f701b274f23
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
